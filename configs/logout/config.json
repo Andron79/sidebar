@@ -1,0 +1,7 @@
+{
+  "name" : "logout",
+  "state": {
+    "icon" : "qrc:/icons/logout.svg",
+    "command" : "DISPLAY=:0 /usr/local/bin/gmbox-logout"
+  }
+}

@@ -1,0 +1,5 @@
+configs/gmbox-sidebar.desktop /etc/xdg/autostart
+configs/logout/config.json /opt/getmobit/gm-sidebar/side-link/logout
+configs/sidebar-settings/config.json /opt/getmobit/gm-sidebar/side-link/sidebar-settings
+configs/sidebar-settings/gmbox-sidebar-settings-sidelink /usr/bin
+configs/sidebar-settings/sidebar_position.pkl /persistent/configs/gm-sidebar

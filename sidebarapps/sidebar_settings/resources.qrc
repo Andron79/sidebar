@@ -1,0 +1,20 @@
+<RCC>
+    <qresource>
+        <file>ui/qml/TitleBar.qml</file>
+        <file>ui/qml/Styles.qml</file>
+        <file>ui/qml/CloseButton.qml</file>
+        <file>ui/qml/GMWindow.qml</file>
+        <file>ui/qml/RadioButtonsGroup.qml</file>
+        <file>ui/qml/qmldir</file>
+        <file>ui/qml/VerticalSlider.qml</file>
+        <file>ui/qml/HorizontalSlider.qml</file>
+        <file>ui/qml/SliderGroup.qml</file>
+        <file>ui/qml/DefaultComboBox.qml</file>
+
+        <file>ui/qml/Main.qml</file>
+
+        <file>ui/icons/close.svg</file>
+        <file>ui/icons/arrow_down.svg</file>
+        <file>ui/icons/arrow_up.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+#!/bin/bash -e
+
+set -e
+chmod 666 /persistent/configs/gm-sidebar/sidebar_position.pkl
+
+#DEBHELPER#
+
+exit 0

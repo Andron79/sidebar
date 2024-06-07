@@ -1,0 +1,40 @@
+[tool.black]
+line-length = 120
+target-version = ['py37', 'py38', 'py39']
+
+[tool.isort]
+profile = "black"
+
+[tool.ruff]
+line-length = 120
+target-version = "py37"
+
+select = [
+    "F",
+    "E",
+    "W",
+    "N",
+    "BLE",
+    "B",
+    "A",
+    "C4",
+    "INP",
+    "PIE",
+    "T20",
+    "RSE",
+    "RET",
+    "SIM",
+    "ARG",
+    "PTH",
+    "ERA",
+    "PL",
+    "FLY",
+    "PERF",
+    "RUF",
+    "I",
+    "TRY",
+]
+
+ignore = ["PTH123", "TRY400", "TRY003"]
+
+exclude = [".egg-info", ".git", ".venv", "venv", "_resources.py", "tests"]

@@ -1,0 +1,15 @@
+*.autosave
+*.stash
+*.log
+*.pro.user*
+*.Debug
+*.Release
+gmbox_sidebar/Makefile
+build/*
+*~
+*.orig
+.idea
+VERSION
+build
+gmbox_sidebar/resources*.py
+sidebarapps/logout/resources*.py

@@ -1,0 +1,6 @@
+[console_scripts]
+gmbox-logout = sidebarapps.logout.main:main
+gmbox-sidebar-settings = sidebarapps.sidebar_settings.main:main
+
+[gui_scripts]
+gmbox-sidebar = gmbox_sidebar.main:main

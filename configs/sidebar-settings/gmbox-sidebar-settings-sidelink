@@ -1,0 +1,15 @@
+#!/bin/bash
+
+set -e
+
+# shellcheck disable=SC2009
+PIDS="$(ps x | grep -e "gmbox-sidebar-settings$" | awk '{print $1}')"
+
+if [ -z "${PIDS}" ]
+then
+  gmbox-sidebar-settings &
+else
+  kill -9 "${PIDS}"
+fi
+
+exit 0

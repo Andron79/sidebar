@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Gmbox-Sidebar
+GenericName=Gmbox Sidebar
+Comment=Sidebar for GMBox
+Type=Application
+Exec=nohup bash -c "DISPLAY=:0 /usr/local/bin/gmbox-sidebar" &
+Hidden=false
+X-MATE-Autostart-enabled=true

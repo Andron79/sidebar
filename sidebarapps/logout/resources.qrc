@@ -1,0 +1,6 @@
+<RCC>
+    <qresource>
+        <file>ui/qml/LogoutWindow.qml</file>
+        <file>ui/icons/exit_icon.svg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+{
+  "name" : "sidebar-settings",
+  "state": {
+    "icon" : "qrc:/icons/settings.svg",
+    "command" : "DISPLAY=:0 gmbox-sidebar-settings-sidelink"
+  }
+}

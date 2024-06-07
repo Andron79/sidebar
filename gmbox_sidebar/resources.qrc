@@ -1,0 +1,9 @@
+<RCC>
+    <qresource>
+        <file>qml/Main.qml</file>
+        <file>qml/Main-test.qml</file>
+        <file>icons/default.svg</file>
+        <file>icons/logout.svg</file>
+        <file>icons/settings.svg</file>
+    </qresource>
+</RCC>
