@@ -13,3 +13,4 @@ VERSION
 build
 gmbox_sidebar/resources*.py
 sidebarapps/logout/resources*.py
+gmbox_sidebar/__pycache__/
